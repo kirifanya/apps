@@ -1,0 +1,27 @@
+{
+  "name": "AppBank",
+  "identifier": "my.ipa.repo",
+  "subtitle": "Каталог банковских приложений",
+  "description": "Наш телеграм - @appleclubq",
+  "iconURL": "https://github.com/kirifanya/apps/releases/download/icon/emj.15.png",
+  "sourceURL": "https://raw.githubusercontent.com/ars2nb/ipafiles/main/apps.json",
+  "apps": [
+    {
+      "name": "Geometry Daash",
+      "bundleIdentifier": "com.footter.ru",
+      "developerName": "izi",
+      "subtitle": "",
+      "category": "AppBank",
+      "version": "2.4",
+      "versionDate": "2026-05-05",
+      "versionDescription": "Обновление клиента до версии 2.4",
+      "downloadURL": "https://github.com/kirifanya/apps/releases/download/Apps/Geometry.Dash.2.208.ipa",
+      "localizedDescription": "Клиент AppBank для удобного доступа к каталогу банковских приложений.",
+      "iconURL": "https://appbank.pw/favicon/android-chrome-512x512.png",
+      "tintColor": "101010",
+      "size": 18917162,
+      "beta": false
+    }
+  ],
+  "news": []
+}
