@@ -4,7 +4,7 @@
   "subtitle": "Каталог банковских приложений",
   "description": "Наш телеграм - @appleclubq",
   "iconURL": "https://github.com/kirifanya/apps/releases/download/icon/emj.15.png",
-  "sourceURL": "https://raw.githubusercontent.com/ars2nb/ipafiles/main/apps.json",
+  "sourceURL": "https://github.com/kirifanya/apps/blob/main/ipa.json",
   "apps": [
     {
       "name": "Geometry Daash",
@@ -17,7 +17,7 @@
       "versionDescription": "Обновление клиента до версии 2.4",
       "downloadURL": "https://github.com/kirifanya/apps/releases/download/Apps/Geometry.Dash.2.208.ipa",
       "localizedDescription": "Клиент AppBank для удобного доступа к каталогу банковских приложений.",
-      "iconURL": "https://appbank.pw/favicon/android-chrome-512x512.png",
+      "iconURL": "https://github.com/kirifanya/apps/releases/download/icon/emj.9.png",
       "tintColor": "101010",
       "size": 18917162,
       "beta": false
